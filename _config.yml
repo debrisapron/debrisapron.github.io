@@ -1,0 +1,12 @@
+# Site settings
+title: "Hello, Cruel World"
+email: "<DEBRIS APRON> debrisapron@gmail.com"
+# description: > # this means to ignore newlines until "baseurl:"
+#   DEBRIS APRON INTERNET HOMEPAGE
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://debrisapron.github.io" # the base hostname & protocol for your site
+twitter_username: debrisapron
+github_username:  debrisapron
+
+# Build settings
+markdown: kramdown
