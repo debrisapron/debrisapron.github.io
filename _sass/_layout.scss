@@ -16,15 +16,15 @@
     font-family: $heading-font-family;
     text-transform: uppercase;
     font-size: 24px;
-    line-height: 56px;
+    /*line-height: 56px;*/
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    font-weight: 600;
+}
 
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
+a.site-title {
+    color: orange;
 }
 
 .site-nav {

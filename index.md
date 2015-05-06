@@ -1,6 +1,6 @@
 ---
-layout: default
-title: DEBRIS APRON
+layout: post
+title: Hello, Cruel World
 ---
 
 Hi, I'm Matthew aka DEBRIS APRON aka Simon Break. I'm a freelance JavaScript / Ruby / Rails / etc developer living between London and Los Angeles. I play music as [THE EUROPEAN](http://iamtheeuropean.com). I like programming, cooking, nature and pretending to be an elf with a bunch of grown adults. You could probably hire me to do some programming or whatever.
