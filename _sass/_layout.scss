@@ -111,13 +111,17 @@ a.site-title {
 .contact-list,
 .social-media-list,
 .links-list {
-    font-size: 15px;
+    font-size: 18px;
     list-style: none;
     margin-left: 0;
+    padding-top: 15px;
+    /*display: inline-block;*/
     > li {
         display: inline;
         margin-right: 15px;
     }
+    border-top: 1px solid black;
+    /*border-bottom: 1px solid $grey-color-light;*/
 }
 
 .footer-col-wrapper {
@@ -229,6 +233,8 @@ a.site-title {
 
 .post-content {
     margin-bottom: $spacing-unit;
+    /*padding-bottom: 20px;
+    border-bottom: 1px solid black;*/
 
     h2 {
         font-size: 26px;
@@ -257,4 +263,10 @@ a.site-title {
 
 .post .footnotes {
     margin-top: 40px;
+}
+
+.picture-wrapper {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 35px;
 }
