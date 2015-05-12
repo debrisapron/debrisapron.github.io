@@ -7,7 +7,7 @@ title: Hello, Cruel World
   <img src="/assets/break_dmg.jpg" alt="A picture of me playing a concert on a boat while reading out loud from a 1st edition Dungeon Masters Guide" width="400" height="400"/>
 </div>
 
-Hi, I'm Matthew aka DEBRIS APRON aka Simon Break. I'm a freelance JavaScript / Ruby / Rails / etc developer living between London and Los Angeles. I play music as [THE EUROPEAN](http://iamtheeuropean.com). I like programming, cooking, nature and pretending to be an elf with a bunch of grown adults. You could probably hire me to do some programming or whatever.
+Hi, I'm Matthew aka DEBRIS APRON aka Simon Break. I'm a freelance JavaScript / Ruby / Rails / etc developer living between London and Los Angeles. I play music as [THE EUROPEAN](http://iamtheeuropean.com). I like programming, cooking, nature and pretending to be an elf with a bunch of grown adults. You could probably [hire me to do some programming or whatever](https://www.linkedin.com/in/debrisapron).
 
 Here is a blog post that I wrote:
 
